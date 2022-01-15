@@ -24,3 +24,9 @@
 ## 编译
 
 启用go module，在src目录下直接执行go build即可编译生成二进制文件
+
+
+## 运行参数
+
+- 服务端口：9000
+- 数据存储路径：~/object_storage_service/data
